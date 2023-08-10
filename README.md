@@ -3,18 +3,18 @@
      This website will be designed and developed to provide a seamless online shopping experience for customers interested in purchasing fireworks and crackers.
 
 # Features of the website
-     * Product Catalog : 
+      Product Catalog : 
               The website will feature a comprehensive catalog of different types of crackers, categorized based on their types, sizes, effects, and safety ratings. 
               Each product will have detailed descriptions, images, and pricing information.
-    * Search and Filters :
+     Search and Filters :
               Users can use search functionality and filters to easily find specific types of crackers, brands, or price ranges.
-    * Safety Guidelines : 
+     Safety Guidelines : 
               The website will prominently display safety guidelines for using fireworks and crackers responsibly, ensuring that customers are aware of proper handling procedures and legal restrictions.
-    * Customer Interaction :
+     Customer Interaction :
               The website will have chat bot to communicate with admin for the clarification of doubt will arises for the customers.
-    * Customer Support : 
+     Customer Support : 
               The website will provide customer support channels, such as contact number or email, to assist users with any queries or concerns.
-    * Responsive Design
+     Responsive Design
               The website will be optimized for various devices, ensuring a seamless experience on desktops, tablets, and mobile phones.
 
 # Conclusion
